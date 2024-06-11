@@ -428,97 +428,11 @@
       ],
       "number of students": 121,
       "number of lessons": 12
-    },
-    {
-      "id": "075d",
-      "title": "",
-      "description": "",
-      "lessons": [
-        {
-          "lessontitle": "kalllloloyyyuhy",
-          "material": "fgfg"
-        }
-      ],
-      "number of students": 12,
-      "number of lessons": 1
-    },
-    {
-      "id": "a0b3",
-      "title": "anmlo",
-      "description": "dsfgggg",
-      "lessons": [
-        {
-          "lessontitle": "dfsfs",
-          "material": "dsfgdggg"
-        },
-        {
-          "lessontitle": "kallllo",
-          "material": "ghhhhhhhhh"
-        }
-      ],
-      "number of students": 88,
-      "number of lessons": 2
     }
   ],
   "users": [
     {
       "id": "d9a8",
-      "name": "tanya",
-      "email": "tanyajagota04@gmail.com",
-      "phone": "09805580258",
-      "password": "tanya123"
-    },
-    {
-      "id": "2540",
-      "name": "tanya",
-      "email": "tanyajagota04@gmail.com",
-      "phone": "09805580258",
-      "password": "tanya123"
-    },
-    {
-      "id": "60d0",
-      "name": "tanya",
-      "email": "tanyajagota04@gmail.com",
-      "phone": "09805580258",
-      "password": "tanya123"
-    },
-    {
-      "id": "e996",
-      "name": "tanya",
-      "email": "tanyajagota04@gmail.com",
-      "phone": "09805580258",
-      "password": "tanya123"
-    },
-    {
-      "id": "9eeb",
-      "name": "tanya",
-      "email": "tanyajagota04@gmail.com",
-      "phone": "09805580258",
-      "password": "tanya123"
-    },
-    {
-      "id": "9e0c",
-      "name": "tanya",
-      "email": "tanyajagota04@gmail.com",
-      "phone": "09805580258",
-      "password": "tanya123"
-    },
-    {
-      "id": "c198",
-      "name": "tanya",
-      "email": "tanyajagota04@gmail.com",
-      "phone": "09805580258",
-      "password": "tanya123"
-    },
-    {
-      "id": "26d7",
-      "name": "tanya",
-      "email": "tanyajagota04@gmail.com",
-      "phone": "09805580258",
-      "password": "tanya123"
-    },
-    {
-      "id": "ae6f",
       "name": "tanya",
       "email": "tanyajagota04@gmail.com",
       "phone": "09805580258",
